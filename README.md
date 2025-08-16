@@ -100,7 +100,7 @@ This design balances performance and training efficiency, achieving strong accur
 ### `traffic_sign_recognition.ipynb`  
 The main Google Colab notebook with the entire workflow. Can be opened and run directly in Colab.
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NishqShah/traffic-sign-recognition/blob/main/traffic_sign_recognition.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NishqShah/Traffic-Sign-Recognition-CNN/blob/main/traffic_sign_recognition.ipynb)
 
 ### `traffic_sign_model.h5`  
 The trained CNN model saved in HDF5 format.
